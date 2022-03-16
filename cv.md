@@ -5,7 +5,7 @@
  * Phone: +375296633119
  * E-mail: samarod@tut.by
 ### *About myself*
-My main advantage as a former professional athlete is discipline. I am not afraid to learn new things, open to new achievements and I never stop there. Gold medal at school, champion of Belarus in dancesport, coach of my own dance school - I can achieve everything I want. And now I dream of developing in the field of high technologies, because I enjoy the ability to create useful programs for the society.
+My main advantage as a former professional athlete is discipline. I am not afraid to learn new things, open to new achievements and I never stop there. Gold medal at school, champion of Belarus in dancesport, coach of my own dance school - I can achieve everything I want. And now I dream of developing in the field of high technologies, because I enjoy the ability to create useful programs for the society. 
 ### *Skills and Proficiency* 
 * HTML5, CSS3 
 * JavaScript Basics
